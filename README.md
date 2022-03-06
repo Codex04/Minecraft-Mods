@@ -14,5 +14,5 @@
 
 - Lance **Minecraft**.  
 - Séléctionne forge.  
-![](https://github.com/Codex04/Minecraft-Mods/blob/main/images/choix-forge.png?raw=true)  
+![choix-forge](https://github.com/Codex04/Minecraft-Mods/blob/main/images/choix-forge.png?raw=true)  
 - Tu peux maintenant cliquer sur Jouer, tout est pret.
