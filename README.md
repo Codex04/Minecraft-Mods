@@ -28,7 +28,7 @@
 - **Nouveau serveur**  
 ![nouveau-serveur](https://github.com/Codex04/Minecraft-Mods/blob/main/images/nouveau-serveur.png?raw=true)  
 - Choisis un nom de serveur pour le retrouver facilement.  
-- Dans **Adresse du serveur** colle ce lien **`minecraft1257.omgserv.com:10004`**  
+- Dans **Adresse du serveur** colle ce lien **`my-bloc.omgcraft.fr:10004 `**  
 ![ajout-du-serveur](https://github.com/Codex04/Minecraft-Mods/blob/main/images/ajout-du-serveur.png?raw=true)  
 - Clique sur **Terminé**.  
 - Plus qu'a rejoindre.  
