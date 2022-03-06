@@ -21,5 +21,18 @@
 ![choix-forge](https://github.com/Codex04/Minecraft-Mods/blob/main/images/choix-forge.png?raw=true)  
 - Tu peux maintenant cliquer sur Jouer, tout est pret.
 
+## **Etape 4:** Connection au serveur
+
+- **Multijoueur**  
+![multijoueur](https://github.com/Codex04/Minecraft-Mods/blob/main/images/multijoueur.png?raw=true)  
+- **Nouveau serveur**  
+![nouveau-serveur](https://github.com/Codex04/Minecraft-Mods/blob/main/images/nouveau-serveur.png?raw=true)  
+- Choisis un nom de serveur pour le retrouver facilement.  
+- Dans **Adresse du serveur** colle ce lien: **`minecraft1257.omgserv.com:10004`**  
+![ajout-du-serveur](https://github.com/Codex04/Minecraft-Mods/blob/main/images/ajout-du-serveur.png?raw=true)  
+- Clique sur **Terminé**.  
+- Plus qu'a rejoindre.  
+![join](https://github.com/Codex04/Minecraft-Mods/blob/main/images/join.png?raw=true)  
+
 ## **En cas de mise à jour du serveur**
 - Recommence l'étape 2.
