@@ -33,6 +33,7 @@
 - Clique sur **Terminé**.  
 - Plus qu'a rejoindre.  
 ![join](https://github.com/Codex04/Minecraft-Mods/blob/main/images/join.png?raw=true)  
+**PS:** Il faut être sur la **Whiteliste** pour pouvoir se connecter.  
 
 ## **En cas de mise à jour du serveur**
 - Recommence l'étape 2.
